@@ -1,2 +1,1 @@
-#1 toDo
-toDo
+IDEA Spring Boot mini-app to-do list project. Created using Alexander Nikiforov's mini-course video, learning java spring boot
